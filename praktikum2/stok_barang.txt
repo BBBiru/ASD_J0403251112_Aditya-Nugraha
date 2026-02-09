@@ -1,0 +1,6 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,22
+BRG004,PermenKis,0
+BRG005,Pensil,10
+BRG009,Spidol,10
