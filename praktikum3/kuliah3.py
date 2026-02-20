@@ -1,3 +1,9 @@
+#================================================
+#Nama: Aditya Nugraha
+#NIM: J0403251112
+#Kelas: TPL 62 A1
+#================================================
+
 class Node: #inisiasi class Node
     def __init__(self, data):
         self.data = data
